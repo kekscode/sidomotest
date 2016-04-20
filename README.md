@@ -28,6 +28,15 @@ def transcode_file(url):
             yield line
 ```
 
+## But why?
+
+Some examples:
+
+* Use complex software stacks with zero knowledge about their details
+* Reduce dependency hell by compartmentalization
+* Integrate legacy software more easily into modern applications
+* ...
+
 ## Visualization
 
 ![Alt text](http://g.gravizo.com/g?
